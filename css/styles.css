@@ -1,0 +1,24 @@
+body{
+    background-color: #C9EEFF;
+}
+hr {
+    background-color: #C9EEFF;
+    border: dotted;
+    border-width: .5em 0 0 ;
+    width: 10%;
+}
+h1 {
+    color: #0E8388;
+}
+h2,h3{
+    color:#0E8388;
+}
+img{
+    background-color: #C9EEFF;
+}
+/* .pf{
+    background-color: red;
+} */
+.pf{
+    border-radius: 100%;
+}
